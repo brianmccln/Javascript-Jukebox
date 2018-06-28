@@ -1,0 +1,74 @@
+[ 
+    { "artist": "KC and the Sunshine Band", 
+      "album": "Saturday Night Fever", 
+      "albumCover": "SaturdayNightFever.jpg", 
+      "song": "Boogie Shoes", 
+      "songFile": "BoogieShoes.mp3" 
+    },
+    { "artist": "Stillwater", 
+      "album": "Almost Famous", 
+      "albumCover": "AlmostFamous.jpg", 
+      "song": "Fever Dog", 
+      "songFile": "FeverDog.mp3" 
+    },
+    { "artist": "Beatles", 
+      "album": "Revolver", 
+      "albumCover": "Revolver.jpg", 
+      "song": "For No One", 
+      "songFile": "ForNoOne.mp3" 
+    },
+    { "artist": "Bob Marley and the Wailers", 
+      "album": "Bob Marley and the Wailers LIVE!", 
+      "albumCover": "BobMarleyLIVE.jpg", 
+      "song": "Get Up Stand Up", 
+      "songFile": "GetUpStandUp.mp3" 
+    },
+    { "artist": "Doors", 
+      "album": "The Doors", 
+      "albumCover": "Doors.jpg", 
+      "song": "Light My Fire", 
+      "songFile": "LightMyFire.mp3"
+    },
+    { "artist": "Drifters", 
+      "album": "On Broadway", 
+      "albumCover": "OnBroadway.jpg",
+      "song": "On Broadway", 
+      "songFile": "OnBroadway.mp3"
+    },
+    { "artist": "Who", 
+      "album": "Quadrophenia", 
+      "albumCover": "Quadrophenia.jpg", 
+      "song": "The Real Me", 
+      "songFile": "TheRealMe.mp3" 
+    },
+    { "artist": "Tom Petty", 
+      "album": "Full Moon Fever", 
+      "albumCover": "FullMoonFever.jpg", 
+      "song": "Running Down A Dream", 
+      "songFile": "RunningDownADream.mp3" 
+    },
+    { "artist": "Jimi Hendrix", 
+      "album": "Electric Ladyland", 
+      "albumCover": "ElectricLadyland.jpg", 
+      "song": "Crosstown Traffic", 
+      "songFile": "CrosstownTraffic.mp3" 
+    },
+    { "artist": "Stone Temple Pilots", 
+      "album": "Thank You", 
+      "albumCover": "STPThankYou.jpg", 
+      "song": "Vasoline", 
+      "songFile": "Vasoline.mp3" 
+    },
+    { "artist": "Eagles", 
+      "album": "Hotel California", 
+      "albumCover": "HotelCalifornia.jpg", 
+      "song": "Victim Of Love", 
+      "songFile": "VictimOfLove.mp3" 
+    },
+    { "artist": "The Who", 
+      "album": "Who's Next", 
+      "albumCover": "WhosNext.jpg", 
+      "song": "Love Ain't For Keepin'", 
+      "songFile": "LoveAintForKeepin.mp3" 
+    } 
+]

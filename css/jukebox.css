@@ -1,0 +1,69 @@
+@charset = "UTF-8";
+
+body {
+    background-color: #123;
+    padding: 2rem;
+}
+
+#app {
+    position: relative;
+    background-image: url('../images/interface/jukebox-bg.jpg');
+    width: inherit;
+    height: 1000px;
+    
+}
+
+#btns-div {
+   position: absolute;
+    width: 450px;
+    height: 209px;
+    left: 950px;
+    top: 553px;
+    z-index: 1;
+}
+
+#rand-btn {
+   position: absolute;
+    left: 790px;
+    top: 780px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+#slider-box {
+    position: absolute;
+    left: 980px;
+    top: 800px;
+    z-index: 1px;
+    width: 400px;
+    height: 25px;
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+/* the quarters */
+#heads, #tails {
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    z-index: 2;
+}
+
+#heads {
+    left: 400px;
+    top: 150px;
+    transform: rotate(20deg);
+}
+
+#tails {
+    left: 600px;
+    top: 150px;
+    transform: rotate(-20deg);
+}
+
+
+
+
+
